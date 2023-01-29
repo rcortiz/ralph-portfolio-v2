@@ -27,7 +27,7 @@ export default function Home() {
             <h1 className="text-xl font-burtons">Ralph</h1>
             <ul className="flex items-center">
               <li>
-                <BsMoonStarsFill className="cursor-pointer text-3xl" />
+                <BsMoonStarsFill className="cursor-pointer text-2xl" />
               </li>
               <li>
                 <a
